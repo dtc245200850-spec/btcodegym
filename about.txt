@@ -1,0 +1,4 @@
+=== THÔNG TIN DỰ ÁN ===
+Tên dự án: git-basic-practice
+Mục tiêu: Hoàn thành bài tập thực hành Git & GitHub cơ bản trực tiếp trên Web interface.
+Tác giả: Student
