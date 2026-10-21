@@ -1,0 +1,4 @@
+=== GHI CHÚ BÀI THỰC HÀNH GIT ===
+1. Khởi tạo repository và hiểu các trạng thái file.
+2. Thực hành Commit nhiều lần với thông điệp rõ ràng.
+3. Học cách quản lý phiên bản và lịch sử thay đổi trên GitHub.
